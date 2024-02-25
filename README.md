@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with ArgoCD
 
+To install ArgoCD- Go to Documentation- https://argo-cd.readthedocs.io/en/stable/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 1. Install NodeJs 16.x and NPM on Ubuntu
 2. Update the backend URL in the src/TodoApp.js 
